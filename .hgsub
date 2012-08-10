@@ -1,1 +1,1 @@
-deps/RaptorDB = git+https://git01.codeplex.com/raptordb
+deps/RaptorDB = ssh://hg@bitbucket.org/jdluzen/raptordb
